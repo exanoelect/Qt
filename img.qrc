@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="front">Picture/rov-front3.png</file>
+        <file alias="side">Picture/rov-side3.png</file>
+        <file alias="top">Picture/rov-top3.png</file>
+    </qresource>
+</RCC>
